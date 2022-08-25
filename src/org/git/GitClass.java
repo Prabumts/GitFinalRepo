@@ -17,7 +17,10 @@ private void method3() {
 	
 
 }private void method6() {
-	
+	System.out.println("hi");
+
+}private void method8() {
+	// TODO Auto-generated method stub
 
 }
 }
