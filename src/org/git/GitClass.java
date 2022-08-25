@@ -8,4 +8,7 @@ private void method1() {
 	
 
 }
+private void method3() {
+	
+}
 }
