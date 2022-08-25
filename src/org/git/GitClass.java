@@ -16,5 +16,8 @@ private void method3() {
 }private void method5() {
 	
 
+}private void method6() {
+	
+
 }
 }
