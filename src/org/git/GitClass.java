@@ -16,11 +16,17 @@ private void method3() {
 }private void method5() {
 	
 
+
+
+
+}private void method6() {
+	
+
+
 }private void method7() {
-	// TODO Auto-generated method stub
+	
 
 }private void method8() {
-	// TODO Auto-generated method stub
-
+	
 }
 }
